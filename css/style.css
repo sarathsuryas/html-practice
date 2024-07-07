@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(27, 203, 106);
+}
+
+#center-div{
+  background-color: white;
+  height: 500px;
+  margin: 40px 80px 40px 80px;
+
+}
+
+#center-div h2{
+  margin-left: 40px;
+  float:left;
+  padding: 20px;
+  margin-right: 20%;
+}
+ul {
+  padding-top: 43px;
+  padding-left: 800px;
+}
+ul li {
+  display: inline;
+  float: left;
+  padding-left: 20px;
+}
+
+#center-div .inside-div{
+padding-top: 100px;
+}
+#center-div .inside-div h1 {
+  display: inline-flex;
+  margin-left: 50px;
+}
+
+#center-div .inside-div p{
+     margin-left: 60px;
+}
+
+#center-div .inside-div button{
+  margin-left: 60px;
+  height:35px;
+  width: 100px;
+}
+
+#center-div .inside-div img{
+height: 250px;
+width: 250px;
+float: right;
+margin-right: 100px;
+}
